@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Akinola</h1>  
-<h3 align="center">A Passionate Workflow Automation Specialist from Nigeria</h3>  
+<h3 align="center">Ai Automation Specialist</h3>  
 
-- 🌱 I’m currently enhancing automation workflows with AI agents and tools like Zapier, n8n, and Make.com  
-- 📫 How to reach me **akinolasam98@gmail.com**  
+- 🌱 I’m currently enhancing automation workflows with AI agents and tools like Zapier, n8n, and Make.com   
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
